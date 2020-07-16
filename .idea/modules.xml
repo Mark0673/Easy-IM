@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/easy-im.iml" filepath="$PROJECT_DIR$/easy-im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IM-Client/im-client.iml" filepath="$PROJECT_DIR$/IM-Client/im-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IM-Route/im-route.iml" filepath="$PROJECT_DIR$/IM-Route/im-route.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IM-Server/im-server.iml" filepath="$PROJECT_DIR$/IM-Server/im-server.iml" />
+    </modules>
+  </component>
+</project>
